@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+#fancybox-review-add-form {
+	display: none;
+	width: 100%;
+}
+
+#fancybox-review-add-form textarea {
+	width: 500px;
+	max-width: 500px;
+}
+
+#fancybox-review-add-form .errorMessage {
+	display: none !important;
+}
